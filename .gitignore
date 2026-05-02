@@ -1,0 +1,85 @@
+# ===============================
+# HELP / Docs
+# ===============================
+HELP.md
+
+# ===============================
+# Logs
+# ===============================
+*.log
+logs/
+
+# ===============================
+# Spring Boot
+# ===============================
+*.pid
+*.seed
+*.pid.lock
+
+# ===============================
+# Application Config (ignore if secrets inside)
+# ===============================
+application.properties
+application.yml
+application-*.properties
+application-*.yml
+.env
+
+# ===============================
+# Build folders
+# ===============================
+/target/        # Maven
+/build/         # Gradle
+!**/src/main/**/target/
+!**/src/test/**/target/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+# ===============================
+# Maven Wrapper
+# ===============================
+.mvn/wrapper/maven-wrapper.jar
+
+# ===============================
+# Java compiled files
+# ===============================
+*.class
+
+# ===============================
+# IDE - STS
+# ===============================
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+# ===============================
+# IDE - IntelliJ IDEA
+# ===============================
+.idea
+*.iws
+*.iml
+*.ipr
+
+# ===============================
+# IDE - NetBeans
+# ===============================
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# ===============================
+# IDE - VS Code
+# ===============================
+.vscode/
+
+# ===============================
+# OS files
+# ===============================
+.DS_Store
+Thumbs.db

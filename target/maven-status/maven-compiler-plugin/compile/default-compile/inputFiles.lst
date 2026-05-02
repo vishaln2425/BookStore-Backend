@@ -1,0 +1,9 @@
+/Users/vishalnikam/Documents/bookstore/src/main/java/com/bookstore/bookstore/BookstoreApplication.java
+/Users/vishalnikam/Documents/bookstore/src/main/java/com/bookstore/bookstore/config/AIConfig.java
+/Users/vishalnikam/Documents/bookstore/src/main/java/com/bookstore/bookstore/config/WebConfig.java
+/Users/vishalnikam/Documents/bookstore/src/main/java/com/bookstore/bookstore/controller/AiController.java
+/Users/vishalnikam/Documents/bookstore/src/main/java/com/bookstore/bookstore/controller/BookController.java
+/Users/vishalnikam/Documents/bookstore/src/main/java/com/bookstore/bookstore/controller/BookstoreChatController.java
+/Users/vishalnikam/Documents/bookstore/src/main/java/com/bookstore/bookstore/model/Book.java
+/Users/vishalnikam/Documents/bookstore/src/main/java/com/bookstore/bookstore/repository/BookRepository.java
+/Users/vishalnikam/Documents/bookstore/src/main/java/com/bookstore/bookstore/service/AiService.java
